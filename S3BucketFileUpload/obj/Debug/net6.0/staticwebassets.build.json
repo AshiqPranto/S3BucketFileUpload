@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0sZle8NXEf1W1zVRedkfbwKTW0nTjknMzeMVPE9jGbg=",
+  "Source": "S3BucketFileUpload",
+  "BasePath": "_content/S3BucketFileUpload",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
